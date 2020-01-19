@@ -1,5 +1,5 @@
 +++
-title = "Bujinkan North London"
+title = "About Us"
 date = "2020-01-18"
 image = 'DKMS.jpg'
 +++
