@@ -1,11 +1,10 @@
-baseurl = "https://bujinkannorthlondon.github.io/"  # Include trailing slash
-title = "Bujinkan North London"
+baseurl = "https://www.bujinkannorthlondon.com/"  # Include trailing slash
+title = "Bujinkan  North London"
 theme = "newsroom"
 author = "Weru"
-copyright = "Copyright © 2020 Bujinkan North London"
+copyright = "Copyright © 2019, Weru and the Hugo Authors; all rights reserved."
 canonifyurls = true
 paginate = 3
-publishDir = "docs"
 # Enable syntax highlighting
 # comment or delete lines 11 ~ 14
 pygmentsCodefences = true
