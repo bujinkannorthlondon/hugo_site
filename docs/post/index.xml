@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bujinkan North London</title>
+    <link>https://bujinkannorthlondon.github.io/post/</link>
+    <description>Recent content in Posts on Bujinkan North London</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020 Bujinkan North London</copyright>
+    <lastBuildDate>Sat, 18 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bujinkannorthlondon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Year 2020</title>
+      <link>https://bujinkannorthlondon.github.io/post/new-year/</link>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bujinkannorthlondon.github.io/post/new-year/</guid>
+      <description>Good start to the year on Wednesday. As usual, after all the mince pies, we started with the fundamentals:
+ Kamae (shizen, ichimonji, jumonji, hicho) Ukemi (zenpo, koho and yoko kaiten) Sanshin/Gogyo no kata (chi, sui, ka, fu ku no kata) Kihon Happo (omote and ura gyaku)  Really fun class!</description>
+    </item>
+    
+  </channel>
+</rss>
